@@ -15,7 +15,7 @@
 
 
 ## Description : 
-*A lightweight cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless jailbreaks*
+*A lightweight cross-process communication tool for sending and receiving messages on iOS 15 & 16. (This is a rootful fork for those who still use that style jailbreak. Until tools like cycript are updated for rootless or a viable alternative is available, rootful tools are still useful) *
 
 ## What does it do ?
 
