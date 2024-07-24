@@ -12,7 +12,7 @@
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
         sharedInstance = [[self alloc] init];
-        sharedInstance.plistPath = @"/var/jb/var/mobile/Library/Preferences/libCrossOverIPC.plist";
+        sharedInstance.plistPath = ROOT_PATH_NS(@"/var/mobile/Library/Preferences/libCrossOverIPC.plist");
 
          NSFileManager *fileManager = [NSFileManager defaultManager];
 

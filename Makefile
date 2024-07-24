@@ -3,8 +3,6 @@ ARCHS = arm64 arm64e
 export TARGET = iphone:14.5
 export SDKVERSION = 14.5
 
-export THEOS_PACKAGE_SCHEME = rootless
-
 export iP = 192.168.1.102
 export Port = 22
 export Pass = alpine

@@ -2,4 +2,5 @@
 
 
 #include <dlfcn.h>
-%ctor { dlopen("/var/jb/usr/lib/libCrossOverIPC.dylib", RTLD_LAZY); }
+#include <rootless.h>
+%ctor { dlopen(ROOT_PATH("/usr/lib/libCrossOverIPC.dylib"), RTLD_LAZY); }

@@ -2,7 +2,7 @@
 
 
 echo "Signing ..."
-ldid -s /var/jb/usr/lib/libCrossOverIPC.dylib /var/jb/usr/lib/libCrossOverIPC.dylib
-ldid -s /var/jb/usr/lib/libCrossOverIPC.dylib /var/jb/Library/MobileSubstrate/DynamicLibraries/0000CrossOverIPC.dylib
+ldid -s /usr/lib/libCrossOverIPC.dylib /usr/lib/libCrossOverIPC.dylib
+ldid -s /usr/lib/libCrossOverIPC.dylib /Library/MobileSubstrate/DynamicLibraries/0000CrossOverIPC.dylib
 echo "Done!"
 exit 0

@@ -1,7 +1,5 @@
 ARCHS = arm64e arm64
 
-THEOS_PACKAGE_SCHEME=rootless
-
 export SDKVERSION = 14.5
 
 include $(THEOS)/makefiles/common.mk
