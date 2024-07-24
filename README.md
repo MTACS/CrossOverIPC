@@ -5,7 +5,7 @@
   <br>
   <img src="https://img.shields.io/badge/palera1n-iOS%2015%20%26%2016-38761d.svg" alt="palera1n">
   <img src="https://img.shields.io/badge/Architecture-arm64%20%26%20arm64e-851512.svg" alt="Architecture">
-    <a href="https://GitHub.com/crazymind90/CrossOverIPC/releases" style="text-decoration: none;">
+    <a href="https://gitHub.com/MTACS/CrossOverIPC/releases" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CrossOverIPC-~Releases-E5C600.svg" alt="Releases">
   </a>
 </div>
